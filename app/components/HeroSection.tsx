@@ -33,7 +33,7 @@ export const HeroSection = () => {
 					<div className="relative inline-block px-4 sm:px-0">
 						<div className="absolute -inset-1 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 rounded-2xl blur-xl opacity-75"></div>
 						<h1 className="relative text-5xl sm:text-7xl md:text-3xl lg:text-6xl font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-white to-gray-300 pb-2">
-							 Kamaljeet Kaur
+							 Test Kaur
 						</h1>
 					</div>
 
