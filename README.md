@@ -1,6 +1,6 @@
 # Web Developer Portfolio Template
 
-[Demo](https://www.devportfoliotemplates.com/portfolio-templates/web-developer)
+[Demo](https://www.iamkamal.ca
 
 ## Getting Started
 
