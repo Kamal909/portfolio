@@ -135,6 +135,6 @@ If you find these templates helpful, please consider:
 
 - Starring the repository ⭐
 - Sharing with other developers
-- [Buying me a coffee](https://www.buymeacoffee.com/kamal909) ☕
+- [Buying me a coffee](https://www.buymeacoffee.com/kamal909/portfolio) ☕
 
-For issues and feature requests, please [create an issue](https://github.com/kamal909/issues).
+For issues and feature requests, please [create an issue](https://github.com/kamal909/portfolio/issues).
