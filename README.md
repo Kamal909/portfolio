@@ -1,4 +1,4 @@
-# Web Developer Portfolio Template
+# Full Stack Developer Portfolio Template
 
 [Demo](https://www.iamkamal.ca
 
@@ -11,7 +11,7 @@ You have two options to get started with this template:
 If you want to clone only this specific template:
 
 ```bash
-git clone --no-checkout https://github.com/devportfoliotemplates/devportfoliotemplates.git
+git clone --no-checkout [https://github.com/kamal909/devportfoliotemplates.git](https://github.com/Kamal909/portfolio)
 cd devportfoliotemplates
 git sparse-checkout init --cone
 git sparse-checkout set web-developer-portfolio-template
@@ -22,7 +22,7 @@ git checkout
 
 You can download this template as a ZIP file:
 
-1. Visit [download-directory.github.io](https://download-directory.github.io/)
+1. Visit [[download-directory.github.io](https://download-directory.github.io/)](https://github.com/Kamal909/portfolio)
 2. Paste the URL of this portfolio folder: `https://github.com/devportfoliotemplates/devportfoliotemplates/tree/main/web-developer-portfolio-template`
 3. Download and extract the ZIP file
 
@@ -135,6 +135,6 @@ If you find these templates helpful, please consider:
 
 - Starring the repository ⭐
 - Sharing with other developers
-- [Buying me a coffee](https://www.buymeacoffee.com/andreiancu) ☕
+- [Buying me a coffee](https://www.buymeacoffee.com/kamal909) ☕
 
-For issues and feature requests, please [create an issue](https://github.com/devportfoliotemplates/devportfoliotemplates/issues).
+For issues and feature requests, please [create an issue](https://github.com/kamal909/issues).
